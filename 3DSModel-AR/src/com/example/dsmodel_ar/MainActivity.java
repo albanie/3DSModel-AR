@@ -26,7 +26,7 @@ import com.threed.jpct.TextureManager;
 import com.threed.jpct.World;
 import com.threed.jpct.util.BitmapHelper;
 import com.threed.jpct.util.MemoryHelper;
-
+/*little comment for same*/
 public class MainActivity extends Activity {
 
 	// Used to handle pause and resume...
